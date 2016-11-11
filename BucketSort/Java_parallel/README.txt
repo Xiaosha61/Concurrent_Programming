@@ -1,6 +1,12 @@
-/**********************  How to start this program   *******************************/
+## Compile 
+1. enter BucketSort/Java_parallel directory.
+2. $ mkdir bin
+3. $ cd src/
+4. $ javac App.java -d ../bin
 
-1. Now you are in the directory: :~/.../BucketSort.
+##  How to start this program   
+
+1. Enter the directory: BucketSort/Java_parallel.
 2. And there are 4 folders:
 	bin - stores all .class files
 	src - stores all .java source codes
